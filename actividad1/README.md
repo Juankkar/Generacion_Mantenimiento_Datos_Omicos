@@ -5,9 +5,13 @@
 ### 1. Encuenctra el gen de la lactasa humano en las bases de datos biológicas del repositorio NCBI y contesta las siguientes preguntas:
 
 1.1. ¿Cuáles son las 5 primeras líneas de la secuencia? (desde el archivo .fasta)
+
 1.2. ¿Cuál es el número de exones que presentan este gen?
+
 1.3. ¿Cuáles son los dos principales tejidos donde se expresa y su nivle de expresión relativo?
+
 1.4. Nombra los dos genes que se sitúan up-stream y down-stream de la lactasa.
+
 1.5. ¿Qué número de variantes consideradas patogénicas aparecen en la base de datos del NCBI ClinVar?
 
 
