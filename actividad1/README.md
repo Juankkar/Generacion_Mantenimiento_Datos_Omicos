@@ -19,16 +19,16 @@
 
 ### 2) Actividad basada en el E-learning training del EMBL, concretamente en su actividad de "A journey through bioinformatics" [1]. Se debe encontrar las respuestas a los 8 retos propuestos.
 
-* [Pulsa para la ubicación de la actividad](https://www.ebi.ac.uk/training/online/courses/a-journey-through-bioinformatics/)
+[Pulsa para la ubicación de la actividad](https://www.ebi.ac.uk/training/online/courses/a-journey-through-bioinformatics/)
 
-    2.1) Realizar y subir al aula un documento con las respuestas.
+ * 2.1) Realizar y subir al aula un documento con las respuestas.
 
 **Es obligatorio presentar junto a la respuesta correcta, una captura de pantalla señalando claramente el lugar donde se ha encontrado la respuesta (por ejemplo, un círculo resaltado con color)**
 
 ## Parte 3: Obtener un listado de archivos .fastaq mediante terminal.
 
-    3.1) Estás iniciando un nuevo proyecto y necesitas obtener un conjunto de archivos de un trabajo previo. Debes obtener los runs asociados al BioProject con accession number PRJNA298959.
+* 3.1) Estás iniciando un nuevo proyecto y necesitas obtener un conjunto de archivos de un trabajo previo. Debes obtener los runs asociados al BioProject con accession number PRJNA298959.
 
-    3.2) Crea un nuevo enviroment para tu proyecto, nómbralo "envAP1"
+ * 3.2) Crea un nuevo enviroment para tu proyecto, nómbralo "envAP1"
 
-    3.3) Utiliza la herramienta fastaq-dump desde este enviroment y descarga los archivos fastq (*all runs*) proporcionando un archivo con el listado de los identificadores que necesitas (SRR_Acc_List.txt). Proporciona una captura de pantalla en la que aparezca el terminal con: el prompt, el comando utilizado y el resultado obtenido.
+* 3.3) Utiliza la herramienta fastaq-dump desde este enviroment y descarga los archivos fastq (*all runs*) proporcionando un archivo con el listado de los identificadores que necesitas (SRR_Acc_List.txt). Proporciona una captura de pantalla en la que aparezca el terminal con: el prompt, el comando utilizado y el resultado obtenido.
