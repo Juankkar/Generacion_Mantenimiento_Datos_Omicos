@@ -4,6 +4,7 @@
 
 ### 1) Encuenctra el gen de la lactasa humano en las bases de datos biológicas del repositorio NCBI y contesta las siguientes preguntas:
 
+
     1.1) ¿Cuáles son las 5 primeras líneas de la secuencia? (desde el archivo .fasta)
 
     1.2) ¿Cuál es el número de exones que presentan este gen?
