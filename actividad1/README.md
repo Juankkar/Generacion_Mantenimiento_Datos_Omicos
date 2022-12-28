@@ -37,7 +37,43 @@ Parece ser que existen 23 variantes patogénias en ClinVar:
 
 [Pulsa para la ubicación de la actividad](https://www.ebi.ac.uk/training/online/courses/a-journey-through-bioinformatics/)
 
- * 2.1) Realizar y subir al aula un documento con las respuestas.
+**Realizar y subir al aula un documento con las respuestas.**
+
+* **Desafío 1**, enunciado:
+
+    ![link6](images/1desafio.png) 
+    
+* Búsqueda:
+
+    ![link7](images/1desafio_busqueda.png)
+
+* Resultado:
+
+    ![link8](images/1desafio_resultado.png)
+
+* **Desafío 2**, enunciado:
+
+    ![link9](images/2desafio.png) 
+    
+* Búsqueda, en sample genotypes he descargado los datos y en excel he filtrato en la columna del genotipo para encontrar el individuo C|T:
+
+    ![link10](images/2desafio_busqueda.png)
+
+* Resultado:
+
+    ![link11](images/2desafio_resultado.png)
+
+* **Desafío 3**, enunciado:
+
+    ![link6](images/3desafio.png) 
+    
+* Búsqueda:
+
+    ![link7](images/)
+
+* Resultado:
+
+    ![link8](images/)
 
 **Es obligatorio presentar junto a la respuesta correcta, una captura de pantalla señalando claramente el lugar donde se ha encontrado la respuesta (por ejemplo, un círculo resaltado con color)**
 
