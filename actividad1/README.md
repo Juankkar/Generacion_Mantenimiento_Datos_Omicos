@@ -6,14 +6,30 @@
 
 * 1.1. ¿Cuáles son las 5 primeras líneas de la secuencia? (desde el archivo .fasta)
 
+![link1](images/5_priemeras_lineas_lactasa.png)
+
 * 1.2. ¿Cuál es el número de exones que presentan este gen?
+
+### ***Revisar***
+
+**Esta pregunta posiblemente esté mal interpretada, yo enseño los exones, pero pregunta el núemro de estos!!**
+
+![link2](images/exones_lactasa.png)
 
 * 1.3. ¿Cuáles son los dos principales tejidos donde se expresa y su nivle de expresión relativo?
 
+Parece ser que los principales tejidos en los que se encuentran son el duodemo y el intestino delgado.
+
+![link3](images/tejidos_expresados.png)
+
 * 1.4. Nombra los dos genes que se sitúan up-stream y down-stream de la lactasa.
+
 
 * 1.5. ¿Qué número de variantes consideradas patogénicas aparecen en la base de datos del NCBI ClinVar?
 
+Parece ser que existen 23 variantes patogénias en ClinVar:
+
+![link5](images/variantes_patogenicas.png)
 
 ## Parte 2: Exlorar recursos del EMBL-EBI:
 
