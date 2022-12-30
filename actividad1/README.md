@@ -69,11 +69,84 @@ Parece ser que existen 23 variantes patogénias en ClinVar:
     
 * Búsqueda:
 
-    ![link7](images/)
+Artículo:
+
+![link7](images/3Desafio.png)
+
+Número de acceso del nucleótido, (Sección de protocolos):
+
+![link8](images/3desafio_nucleotido.png)
 
 * Resultado:
 
-    ![link8](images/)
+![link9](images/3desafio_resultado.png)
+
+* **Desafío 4**, enunciado:
+
+![link10](images/4desafio.png) 
+    
+* Búsqueda:
+
+![link11](images/4desafio_busqueda.png)
+
+* Resultado:
+
+![link12](images/4desafio_resultado.png)
+
+* **Desafío 5**, enunciado:
+
+![link10](images/5desafio.png) 
+    
+* Búsqueda:
+
+![link11](images/5.desafio_busqueda.png)
+
+* Resultado:
+
+![link12](images/4desafio_resultado.png)
+
+* **Desafío 6**, enunciado:
+
+![link13](images/6desafio.png) 
+    
+* Búsqueda:
+
+![link14](images/6desafio_busqueda.png)
+
+* Resultado:
+
+![link15](images/6desafio_resultado2.png)
+
+* **Desafío 7**, enunciado:
+
+![link16](images/7desafio.png) 
+    
+* Búsqueda:
+
+![link17](images/7desafio_busqueda.png)
+
+* Resultado:
+
+![link18](images/7desafio_resultado.png)
+
+* **Desafío 8**, enunciado:
+
+![link16](images/8desafio.png) 
+    
+* Búsqueda:
+
+Había que hacer una serie de filtros: -> journal (science) -> Experimental Information (EM microscope model)
+
+![link17](images/8desafio_busqueda.png)
+
+![link17](images/8desafio_busqueda2.png)
+
+
+* Resultado:
+
+![link18](images/8desafio_resultado.png)
+
+
 
 **Es obligatorio presentar junto a la respuesta correcta, una captura de pantalla señalando claramente el lugar donde se ha encontrado la respuesta (por ejemplo, un círculo resaltado con color)**
 
