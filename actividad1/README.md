@@ -24,6 +24,13 @@ Parece ser que los principales tejidos en los que se encuentran son el duodemo y
 
 * 1.4. Nombra los dos genes que se sitúan up-stream y down-stream de la lactasa.
 
+    * Up stream se encontraría el gen MCM6.
+
+![MCM6](images/mcm6.png)
+
+    * Down stream se encontraría el gen UBXN4.
+
+![UBXN4](images/ubxn4.png)
 
 * 1.5. ¿Qué número de variantes consideradas patogénicas aparecen en la base de datos del NCBI ClinVar?
 
