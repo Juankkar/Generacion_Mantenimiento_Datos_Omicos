@@ -161,8 +161,30 @@ Había que hacer una serie de filtros: -> journal (science) -> Experimental Info
 
 * 3.1) Estás iniciando un nuevo proyecto y necesitas obtener un conjunto de archivos de un trabajo previo. Debes obtener los runs asociados al BioProject con accession number PRJNA298959.
 
-
-
  * 3.2) Crea un nuevo enviroment para tu proyecto, nómbralo "envAP1"
 
+ Creamos en ese sentido el ambiento en conda:
+
+ ![link19](images/crear_ambiente.png)
+
+ Verificamos viendo una lista de los ambientes creados para ver que se encuentra el envAP1.
+
+ ![link20](images/lista_ambientes.png)
+
+Instalamos sra-tools en el ambiente creado:
+
+ ![link21](images/instalar_sratools.png)
+
 * 3.3) Utiliza la herramienta fastaq-dump desde este enviroment y descarga los archivos fastq (*all runs*) proporcionando un archivo con el listado de los identificadores que necesitas (SRR_Acc_List.txt). Proporciona una captura de pantalla en la que aparezca el terminal con: el prompt, el comando utilizado y el resultado obtenido.
+
+Creamos la lista de los runs:
+
+![link22](images/SRR_lista.png)
+
+En mi caso he creado un script en bash que me permita descargar de forma automática los archivos fastq de forma automática:
+
+![link23](images/script_sra.png)
+
+Y este sería el output del mismo:
+
+![link21](images/srr_output.png)
