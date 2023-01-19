@@ -72,11 +72,39 @@ Empezaremos por un alineamiento en local, mediante la herramienta muscle:
 
 2.2.1 Proporciona los comandos utilizados para realizar un alineamiento con salida en html en texto junto a una captura de pantalla en la que parezca el terminal con: el prompt, el comando utilizado y el resultado obtenido.
 
+* Este es el script que he hecho para tenerlo a mano siempre que revise el ejercicio. También adelanto el input del apartado 2.2.3.
+
+![link8](images/8script_align.png)
+
+* Y este sería el output con todas las secuencias:
+
+![link9](images/9out_align.png)
+
+* Vemos el html con los resultados:
+
+![link10](images/11html_completo.png)
+
 Seguiremos con un análisis en la web, alineamiento en la web mediante la herramienta online del EBI: https://www.ebi.ac.uk/Tools/msa/muscle/
+
+* Introducimos nuestro archivo:
+
+![link11](images/15align_web3.png)
 
 2.2.2 Proporciona una captura de pantalla con el resultado e indica y justifica en que mitad o región el alineamiento es más óptimo.
 
+* Vemos los resultados, yo los he coloreado:
+
+![link12](images/13align_web.png)
+
+![link13](images/14align_web2.png)
+
+* Parece ser que las secuencias más conservadas los cachos 4 y 5 del output tanto del muscle local como el de web.
+
 2.2.3 Elimina las dos secuencias más alejadas, ornitorrinco y zarigüeya, repite con ambas técnicas el alineamiento proporcionando los comandos utilizados y capturas de pantalla y contesta justificando la respuesta: ¿ha mejorado o empeorado el alineamiento? ¿Se puede identificar regiones más conservadas y menos conservadas? 
+
+![link14](images/12html2.png)
+
+* Ha mejorado ya que de esta manera no vemos tantos espacios al principio del alineamiento.
 
 AP2.3 Calidad y pre-procesamiento de secuencias (puntos por pregunta)
 Utilizando el archivo de Illumina_MySeq.fastq:
