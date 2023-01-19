@@ -59,7 +59,7 @@ Seguiremos con un análisis en la web, blast en la web mediante la herramienta o
 
 2.1.4 Indica evalue e identidad en el mejor hit.
 
-
+* Como bien se veía arriba se trata de un valor 0.
 
 2.1.5 ¿Qué método presenta un mejor resultado, web o local? Justifica la respuesta.
 
