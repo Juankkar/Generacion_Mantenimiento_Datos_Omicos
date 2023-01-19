@@ -29,15 +29,37 @@ Queremos caracterizar una proteína problema que se encuentra en el archivo prob
 
 Empezaremos por un análisis en local, realiza un blast en local:
 
+Para ello, lo que crearemos un ambiente con lo que necesitamos para realizar un blast local.
+
+![link1](images/1crear_ambiente.png)
+
+![link2](images/2env_list.png)
+
 2.1.1 Proporciona los comandos utilizados para realizar el blast en local en texto junto a una captura de pantalla en la que parezca el terminal con: el prompt, el comando utilizado y el resultado obtenido.
 
+* En mi caso he creado un script para realizar el blast local.
+
+![link3](images/3script_blast_local.png)
+
+* Output de este:
+
+![link4](images/4output_script.png)
+
 2.1.2 Indica y justifica cual es la proteína más relacionada y una captura de pantalla del resultado.
+
+![link5](images/5hoja_calculo_blast.png)
 
 Seguiremos con un análisis en la web, blast en la web mediante la herramienta online del NCBI https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 2.1.3 Indica cual es la proteína más relacionada y una captura de pantalla del resultado.
 
+![link6](images/6blast_online1.png)
+
+![link7](images/7blast_online2.png)
+
 2.1.4 Indica evalue e identidad en el mejor hit.
+
+
 
 2.1.5 ¿Qué método presenta un mejor resultado, web o local? Justifica la respuesta.
 
