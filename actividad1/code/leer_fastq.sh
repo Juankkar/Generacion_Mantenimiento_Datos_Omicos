@@ -16,7 +16,7 @@ sra_list=$(cat $runs)
 ## Creamos un bucle que descargue de forma automática los archivos
 for sra in $sra_list
 do
-    fastq-dump --split-files $sra
+    fastq-dump $sra
 done
 
 mv *.fastq ../data
